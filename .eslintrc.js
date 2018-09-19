@@ -3,9 +3,6 @@ module.exports = {
   env: {
     node: true
   },
-  baseUrl: process.env.NODE_ENV === 'production'
-    ? '/vue-quill/'
-    : '/',
   'extends': [
     'plugin:vue/essential',
     'eslint:recommended'
