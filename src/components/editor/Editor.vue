@@ -1,8 +1,7 @@
 <template>
   <div>
-  <div id="toolbar"></div>
-  <div id="editor">
-  </div>
+	  <div id="toolbar"></div>
+	  <div id="editor"></div>
   </div>
 </template>
 
